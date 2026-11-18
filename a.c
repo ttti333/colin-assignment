@@ -2,7 +2,10 @@
 
 int main(void){
 
-	printf("text...\n");
+	
+
+	printf("1111");
+	printf("2222");
 
 	return 0;
 }
